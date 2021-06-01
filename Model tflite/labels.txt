@@ -1,0 +1,6 @@
+Boat
+Bus
+Car
+Cat
+Flower
+Horse
